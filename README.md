@@ -2,3 +2,4 @@
 - 👀 I’m interested in Machine Learning, Android Mobile Application developing and Full Stack developing.
 - 🌱 I’m graduated in July, 2021 from Dokuz Eylül University, İzmir. I'm living in İzmir currently.
 - 📫 If you want to reach me, you can send e-mail to elifkaratas55@outlook.com or elif.karatas@ceng.deu.edu.tr.
+- 💎 My LinkedIn account -> https://www.linkedin.com/in/elif-karata%C5%9F-7b52a2200/.
