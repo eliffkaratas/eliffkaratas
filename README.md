@@ -21,4 +21,5 @@
 <h3 align="left">Elif's Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliffkaratas&show_icons=true&locale=en" alt="eliffkaratas" /></p>
 
+<h3 align="left">Streak Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliffkaratas&" alt="eliffkaratas" /></p>
