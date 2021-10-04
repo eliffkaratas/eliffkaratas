@@ -1,4 +1,4 @@
-
+![Alt Text](https://media.giphy.com/media/ES4Vcv8zWfIt2/source.gif)
 
 ## 👋 Hi, I’m Elif.
 ## There are a few projects that i developed in my education life and my internship and interested in Android Mobile Application Development.
