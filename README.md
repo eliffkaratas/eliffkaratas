@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/source.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/source.gif" width="100" height="100" />
 
 ## 👋 Hi, I’m Elif.
 ## There are a few projects that i developed in my education life and my internship and interested in Android Mobile Application Development.
