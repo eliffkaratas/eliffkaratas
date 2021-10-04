@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @eliffkaratas.
 ## There are a few projects that i developed in my education life and my internship and interested in Android Mobile Application Development.
 ### 🌱 I graduated in July, 2021 from Dokuz Eylül University, Computer Engineering. I'm living in İzmir currently.
-# 📫 If you want to contact me, you can send e-mail to elifkaratas55@outlook.com or elif.karatas@ceng.deu.edu.tr.
+### 📫 If you want to contact me, you can send e-mail to elifkaratas55@outlook.com or elif.karatas@ceng.deu.edu.tr.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliffkaratas&label=Profile%20views&color=0e75b6&style=flat" alt="eliffkaratas" /> </p>
 
