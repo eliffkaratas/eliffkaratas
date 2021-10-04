@@ -18,7 +18,7 @@
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliffkaratas&show_icons=true&locale=en&layout=compact" alt="eliffkaratas" /></p>
 
-<h3 align="left">Elif's Github Stats:</h3>
+<h3 align="left">Elif's GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliffkaratas&show_icons=true&locale=en" alt="eliffkaratas" /></p>
 
 <h3 align="left">Streak Stats:</h3>
