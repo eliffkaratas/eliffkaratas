@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/karataselif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karataselif/" height="30" width="40" /></a>
 </p>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"><h3 align="left">Mobile App Development:</h3>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -34,15 +33,13 @@
 <p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a></p>
 <h3 align="left">Other:</h3>
 <p align="left"><a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
-
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliffkaratas&show_icons=true&locale=en&layout=compact" alt="eliffkaratas" /></p>
-
 <h3 align="left">Elif's GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliffkaratas&show_icons=true&locale=en" alt="eliffkaratas" /></p>
-
 <h3 align="left">Streak Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliffkaratas&" alt="eliffkaratas" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliffkaratas&label=Profile%20views&color=0e75b6&style=flat" alt="eliffkaratas" /> </p>
+<h3 align="left">GitHub Profile Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliffkaratas" alt="eliffkaratas" /></a> </p>
+<h3 align="left">Profile Views:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliffkaratas&label=Profile%20views&color=0e75b6&style=flat" alt="eliffkaratas" /> </p>
