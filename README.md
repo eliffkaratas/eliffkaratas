@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/I1cEnXR3z7RbG/giphy.gif" width="400" height="180" align="right"/>
 
 ## 👋 Hi, I’m Elif.
-## There are a few projects that i developed in my education life and my internship and interested in Android Mobile Application Development.
+## There are a few projects that i developed in my education life, trainings and internships.
 ### 🌱 I graduated in July, 2021 from Dokuz Eylül University, Computer Engineering. I'm living in İzmir currently.
 ### 📫 If you want to contact me, you can send e-mail to elifkaratas55@outlook.com or elif.karatas@ceng.deu.edu.tr.
 <h3 align="left">Connect with me:</h3>
