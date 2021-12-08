@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Elif.
 ## There are a few projects that i developed in my education life, trainings and internships.
 ### 🌱 I graduated in July, 2021 from Dokuz Eylül University, Computer Engineering. I'm living in İzmir currently.
-### 📫 If you want to contact me, you can send e-mail to elifkaratas55@outlook.com or elif.karatas@ceng.deu.edu.tr.
+### 📫 If you want to contact me, you can send e-mail to elifkaratas55@outlook.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karataselif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karataselif/" height="30" width="40" /></a>
